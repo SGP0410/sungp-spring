@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.sungp.business.config.WebAutoConfiguration,com.sungp.business.config.CorsConfig
